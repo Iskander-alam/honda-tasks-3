@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.hero-seq{
+    background-color:#264653;
+    height: 698px;
+}
+.borderd.text-white.col-md-6 {
+    margin-top: 230px !important;
+}
+.borderd{
+    margin-top: 140px !important;
+}
+button.btn.text-white {
+    background-color: #E76F51;
+}
+span{
+    color: coral;
+}
+.fass:hover {
+    filter: grayscale(100%);
+  }
+
+  img.card-img-top {
+    width: 9rem;
+    margin-left: 50px;
+}
+.client-name{
+    color: #23A6F0;
+}
+i.fa.fa-star {
+    color: #E76F51;
+}
+.col-1{
+    padding: 93px;
+}
